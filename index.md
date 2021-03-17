@@ -8,4 +8,16 @@ Kuattro is a opensource 4 7-digits controller to develop many projects and learn
 
 Kuattro was born in an artistic project in 2018, to simplify control of 4 7-digits with Arduino platform
 
+What can you do with Kuattro?
+
+- A Clock
+- A Timer
+- A Counter
+- A counter with API data like Facebook Like or Unread Mail !!
+- Adding sensors Show Temperature or Distance
+- ... Whatever you need
+
+You can build your own or Buy the kit on website
+
 **Documentation in progress**
+

@@ -1,7 +1,7 @@
 ## Welcome to Kuattro Pages
 
 
-<img alt="Kuattro image 1" src="https://spaziochirale.github.io/Kuattro/kuattro_front1.jpg" height="230" /><img alt="Kuattro image 2" src="https://spaziochirale.github.io/Kuattro/kuattro_lightRandom1.jpg" height="230" />   
+<img alt="Kuattro image 1" src="https://spaziochirale.github.io/Kuattro/kuattro_front1.jpg" width="600" /><img alt="Kuattro image 2" src="https://spaziochirale.github.io/Kuattro/kuattro_lightRandom1.jpg" width="600" />   
    
 
 Kuattro is a opensource 4 7-digits controller to develop many projects and learn Arduino platform
